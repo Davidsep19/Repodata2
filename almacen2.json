@@ -1,0 +1,86 @@
+{
+    "usuarios": [
+      {
+        "id": "1",
+        "username": "David Sepulveda",
+        "password": "duoc1234",
+        "email": "usuario1@gmail.cl",
+        "isactive": true
+      },
+      {
+        "id": "2",
+        "username": "usuario2",
+        "password": "maipu1234",
+        "email": "usuario2@gmail.cl",
+        "isactive": true
+      },
+      {
+        "id": "fc79",
+        "email": "dav.sepulvedag@duocuc.cl",
+        "password": "david1234",
+        "isactive": true
+      }
+    ],
+    "eventos": [
+      {
+        "id": "1",
+        "nombre": "Evento de Robotica",
+        "fecha": "12/10/2024",
+        "lugar": "DuocUC Sede Mapú",
+        "imagen": "assets/EventoRobotica.webp",
+        "descripcion": "Evento realizado por RoboticDC, donde veremos un sin fin de robots de todo el mundo y muchos concursos"
+      },
+      {
+        "id": "2",
+        "nombre": "Evento de VideoJuegos",
+        "fecha": "15/10/2024",
+        "lugar": "DuocUC Sede Maipú",
+        "imagen": "assets/EventoGamer.jpg",
+        "descripcion": "Evento realizado por SPdigital donde veremos muchas competencias con los mejores a nivel nacional"
+      },
+      {
+        "id": "3",
+        "nombre": "Evento de Programacion",
+        "fecha": "20/10/2024",
+        "lugar": "DuocUC Sede Maipú",
+        "imagen": "assets/EventoProgramacion.jpg",
+        "descripcion": "Evento realizado por Casa Central, donde veremos muchas competencias y tecnicas para la programacion y muchos concursos."
+      }
+    ],
+    "misEventos": [
+      {
+        "id": "3",
+        "nombreEvento": "Evento de Programacion",
+        "email": "usuario1@gmail.cl",
+        "isactive": true
+      },
+      {
+        "id": "2",
+        "nombreEvento": "Evento de VideoJuegos",
+        "email": "usuario1@gmail.cl",
+        "isactive": true
+      }
+    ],
+    "comentarios": [
+      {
+        "id": "7500",
+        "comentario": "jdadas",
+        "usuario": "",
+        "fecha": "2024-10-24T01:48:05.445Z"
+      },
+      {
+        "id": "c2f7",
+        "comentario": "ddsda",
+        "email": "",
+        "usuario": "usuario_actual",
+        "fecha": "2024-10-24T01:55:50.820Z"
+      },
+      {
+        "id": "7929",
+        "comentario": "dasdasd",
+        "email": "usuario1@gmail.cl",
+        "usuario": "David Sepulveda",
+        "fecha": "2024-10-24T01:57:18.545Z"
+      }
+    ]
+  }
